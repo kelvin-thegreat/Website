@@ -52,7 +52,7 @@ git push -u origin main
 
 After about 1–2 minutes, your website will be live at:
 
-[Wedding website](https://euphonious-zuccutto-cd1cbb.netlify.app/) 
+<a href="https://euphonious-zuccutto-cd1cbb.netlify.app/" target="_blank">Wedding website</a>
 
 
 GitHub will show you the exact URL in the Pages settings once it's deployed.
