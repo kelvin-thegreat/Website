@@ -1,8 +1,8 @@
-# 💍 Isabella & James — Wedding Website
+# Isabella & James — Wedding Website
 
 A beautiful, single-page wedding website built with pure HTML, CSS, and vanilla JavaScript. No frameworks, no dependencies, no build step — just open `index.html` or deploy straight to GitHub Pages.
 
-## ✨ Features
+## Features
 
 - Animated hero section with couple's names
 - Live countdown timer to the wedding date
@@ -14,7 +14,7 @@ A beautiful, single-page wedding website built with pure HTML, CSS, and vanilla 
 - Fully responsive (mobile-friendly)
 - Smooth scroll-reveal animations
 
-## 🚀 Deploy to GitHub Pages
+## Deploy to GitHub Pages
 
 ### Step 1 — Create a GitHub repository
 
@@ -48,11 +48,11 @@ git push -u origin main
 3. Set branch to **main** and folder to **/ (root)**
 4. Click **Save**
 
-### Step 4 — Your site is live! 🎉
+### Step 4 — Your site is live!
 
 After about 1–2 minutes, your website will be live at:
 ```
-https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/
+https://euphonious-zuccutto-cd1cbb.netlify.app/
 ```
 
 GitHub will show you the exact URL in the Pages settings once it's deployed.
@@ -91,7 +91,7 @@ Upload your photos into a `photos/` folder alongside `index.html`.
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 /
